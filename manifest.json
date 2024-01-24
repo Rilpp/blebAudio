@@ -1,0 +1,11 @@
+{
+    "name": "bleb_Audio",
+    "version_number": "0.1",
+    "website_url": "",
+    "description": "Replaces various audios with bleb related ones",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Clementinise-CustomSounds-2.3.2",
+		"no00ob-LCSoundTool-1.5.0"
+    ]
+}
