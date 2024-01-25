@@ -1,6 +1,6 @@
 {
     "name": "Bleb_Audio",
-    "version_number": "0.1.0",
+    "version_number": "0.1.1",
     "website_url": "https://github.com/Rilpp/blebAudio",
     "description": "Replaces various audios with bleb related ones",
     "dependencies": [
